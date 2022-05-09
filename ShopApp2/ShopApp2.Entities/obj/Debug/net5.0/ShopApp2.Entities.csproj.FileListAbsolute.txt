@@ -1,0 +1,12 @@
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\bin\Debug\net5.0\ShopApp2.Entities.deps.json
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\bin\Debug\net5.0\ShopApp2.Entities.dll
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\bin\Debug\net5.0\ref\ShopApp2.Entities.dll
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\bin\Debug\net5.0\ShopApp2.Entities.pdb
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\obj\Debug\net5.0\ShopApp2.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\obj\Debug\net5.0\ShopApp2.Entities.AssemblyInfoInputs.cache
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\obj\Debug\net5.0\ShopApp2.Entities.AssemblyInfo.cs
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\obj\Debug\net5.0\ShopApp2.Entities.csproj.CoreCompileInputs.cache
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\obj\Debug\net5.0\ShopApp2.Entities.dll
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\obj\Debug\net5.0\ref\ShopApp2.Entities.dll
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\obj\Debug\net5.0\ShopApp2.Entities.pdb
+D:\ShopApp2\ShopApp2\ShopApp2.Entities\obj\Debug\net5.0\ShopApp2.Entities.csproj.AssemblyReference.cache

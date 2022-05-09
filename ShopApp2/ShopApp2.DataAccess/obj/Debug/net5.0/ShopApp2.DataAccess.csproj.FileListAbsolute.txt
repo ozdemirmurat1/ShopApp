@@ -1,0 +1,17 @@
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\bin\Debug\net5.0\ShopApp2.DataAccess.deps.json
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\bin\Debug\net5.0\ShopApp2.DataAccess.runtimeconfig.json
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\bin\Debug\net5.0\ShopApp2.DataAccess.runtimeconfig.dev.json
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\bin\Debug\net5.0\ShopApp2.DataAccess.dll
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\bin\Debug\net5.0\ref\ShopApp2.DataAccess.dll
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\bin\Debug\net5.0\ShopApp2.DataAccess.pdb
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\bin\Debug\net5.0\ShopApp2.Entities.dll
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\bin\Debug\net5.0\ShopApp2.Entities.pdb
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\obj\Debug\net5.0\ShopApp2.DataAccess.csproj.AssemblyReference.cache
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\obj\Debug\net5.0\ShopApp2.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\obj\Debug\net5.0\ShopApp2.DataAccess.AssemblyInfoInputs.cache
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\obj\Debug\net5.0\ShopApp2.DataAccess.AssemblyInfo.cs
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\obj\Debug\net5.0\ShopApp2.DataAccess.csproj.CoreCompileInputs.cache
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\obj\Debug\net5.0\ShopApp2.DataAccess.dll
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\obj\Debug\net5.0\ref\ShopApp2.DataAccess.dll
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\obj\Debug\net5.0\ShopApp2.DataAccess.pdb
+D:\ShopApp2\ShopApp2\ShopApp2.DataAccess\obj\Debug\net5.0\ShopApp2.DataAccess.genruntimeconfig.cache

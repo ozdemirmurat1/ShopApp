@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopApp2.DataAccess\ShopApp2.DataAccess.csproj" />
+    <ProjectReference Include="..\ShopApp2.Entities\ShopApp2.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
